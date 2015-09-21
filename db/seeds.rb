@@ -3,5 +3,5 @@
 #
 # Examples:
 #
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
+   cities = Helloworld.create([{ data: 'Chicago' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
